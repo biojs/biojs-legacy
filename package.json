@@ -2,10 +2,10 @@
   "name": "biojs-legacy",
   "description": "This is a legacy for old BioJS 0.1 components. DO NOT USE!",
   "version": "0.0.2",
-  "homepage": "http://github.com/biojs/biojs2",
+  "homepage": "http://github.com/biojs/biojs-legacy",
   "repository": {
     "type": "git",
-    "url": "git://github.com/biojs/biojs2"
+    "url": "git://github.com/biojs/biojs-legacy"
   },
   "author": {
     "name": "BioJS",
